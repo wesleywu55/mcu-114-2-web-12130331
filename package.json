@@ -1,0 +1,25 @@
+{
+  "name": "mcu-114-2-web-12130331",
+  "version": "1.0.0",
+  "description": "- 利用 HTML 建立如下圖所示的網站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleywu55/mcu-114-2-web-12130331.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wesleywu55/mcu-114-2-web-12130331/issues"
+  },
+  "homepage": "https://github.com/wesleywu55/mcu-114-2-web-12130331#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
