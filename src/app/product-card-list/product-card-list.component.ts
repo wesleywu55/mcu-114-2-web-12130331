@@ -13,7 +13,11 @@ import { Product } from '../model/product';
 export class ProductCardListComponent {
   readonly products = input<Product[]>([]);
 
+  readonly edit = output<Product>();
+
+  readonly remove = output<Product>();
+
   readonly view = output<Product>();
 
-  pageIndex = 1;
+  protected pageIndex = 1;
 }
